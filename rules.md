@@ -7,7 +7,6 @@
 R1: December 22nd, 2020.
 
 ## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+- [Log](log.md)
+- [FAQ](FAQ.md)
+- [Resources](resources.md)
