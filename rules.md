@@ -7,9 +7,9 @@
 December 22nd, 2020.
 
 ## Mildly Adapted Rules
--I will push code to GitHub every day so that anyone can see my progress.
--I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
--I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+- I will push code to GitHub every day so that anyone can see my progress.
+- I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
+- I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
 
 ## Mildly Adapted Ideas
 - To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
