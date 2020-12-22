@@ -4,6 +4,6 @@
 
 **Today's Progress**: reacquainted myself with Github and set up the environment intended to tackle these upcoming 100 days
 
-**Thoughts:** a good refresher and exploration of the surface level of other important ideas, will likely go with the freeCodeCamp material
+**Thoughts:** a good refresher, seek to attain the scientific computing with python certificate from freeCodeCamp
 
 **Link to work:** you are looking at it; introductory courses on github learning lab
